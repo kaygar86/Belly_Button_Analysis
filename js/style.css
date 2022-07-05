@@ -5,7 +5,7 @@ body {
   }
 
   .jumbotron {
-    background-image: url("../images/belly_dancer2.jpg");
+    background-image: url("images/belly_dancer2.jpg");
     background-size: 100% 100%;
     text-align: center;
   }
